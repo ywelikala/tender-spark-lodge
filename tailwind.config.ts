@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom tender portal colors
+				'hero-background': 'hsl(var(--hero-background))',
+				'hero-foreground': 'hsl(var(--hero-foreground))',
+				'tender-orange': 'hsl(var(--tender-orange))',
+				'tender-orange-hover': 'hsl(var(--tender-orange-hover))',
+				'stats-background': 'hsl(var(--stats-background))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
